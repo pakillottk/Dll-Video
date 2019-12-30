@@ -1,5 +1,6 @@
 @echo off
 
+call ".\shell.bat"
 :: Debug flags
 :: set compiler_flags=/Zi /D_DEBUG /Od
 :: Release flags
